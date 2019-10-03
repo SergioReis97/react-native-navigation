@@ -2,8 +2,8 @@ package com.reactnativenavigation.viewcontrollers;
 
 import android.app.Activity;
 import android.graphics.Typeface;
-import android.support.v7.widget.ActionMenuView;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.ActionMenuView;
+import androidx.appcompat.widget.Toolbar;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.View;

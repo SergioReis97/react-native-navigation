@@ -1,7 +1,7 @@
 package com.reactnativenavigation.viewcontrollers;
 
 import android.app.Activity;
-import android.support.v4.app.FragmentActivity;
+import androidx.fragment.app.FragmentActivity;
 import android.widget.FrameLayout;
 
 import com.facebook.react.ReactInstanceManager;
